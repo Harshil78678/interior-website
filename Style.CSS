@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://github.com/Harshil78678/interior-website/blob/main/Picture%20of%20a%20room.jpg);
+}
+.Links{
+    display: inline;
+    margin-left: 225px;
+}
+#logo{
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
