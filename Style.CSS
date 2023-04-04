@@ -1,14 +1,21 @@
-body{
-    background-image: url(Bedroom\ 5.jpg);
+* {
+    margin: 0;
+    padding: 0;
 }
-.Links{
-    display: inline;
-    margin-left: 225px;
-}
-#logo{
-    display: block;
-    height: 100px;
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
+.bg {
+    background-color: rgb(82, 76, 76);
+    background-image: url(Alpinum3-1400x650-c.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+  }
+.logo{
+ float: left;
+ color: rgb(90, 158, 147);
+ font-family: 'Oswald', sans-serif;
+ padding-top: 10px;
+ padding-left: 30px;
+ letter-spacing: 1px;
 }
