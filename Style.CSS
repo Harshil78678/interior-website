@@ -40,8 +40,8 @@ ul li{
 .navbar{
     background-color: rgb(26, 23, 23);
 }
-.title .t1 , .title .t2{
-    height: 100%;
+.title .t1{
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
